@@ -3,3 +3,4 @@ test.md
 stylelint
 webhint
 package-lock.json
+.gitignore
